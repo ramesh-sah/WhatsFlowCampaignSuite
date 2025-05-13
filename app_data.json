@@ -1,0 +1,41 @@
+{
+  "MESSAGES": {
+    "Call Again": [
+      "Please call again.",
+      "Can you call back later?",
+      "We missed your call. Please call again."
+    ],
+    "Daily Update": [
+      "This is your daily message reminder.",
+      "Reminder for today's task.",
+      "Here's your daily update."
+    ],
+    "Follow-up": [
+      "This is a follow-up message.",
+      "Just following up on our last conversation.",
+      "Following up on your request."
+    ],
+    "Services Offer": [
+      "Hey there! 🌟 Hope you're doing awesome. I wanted to share how our end-to-end IT & digital services can supercharge your business growth. Whether you need B2B solutions, cloud expertise, or lead-gen magic, we've got you covered:\n\n📈 Digital Marketing Strategy\n📱 Social Media Marketing (Facebook, Instagram, LinkedIn, TikTok)\n💬 WhatsApp Marketing Campaigns\n✉️ Email Marketing & Automation\n📧 Cold Email Outreach\n🎣 Data Scraping & Lead Generation\n🌐 Custom Website Development & Design\n🛍️ E-Commerce Development (Shopify, WooCommerce, Magento)\n📱 Mobile App Development (iOS & Android)\n🔍 Search Engine Optimization (SEO)\n🎯 Search Engine Marketing (Google Ads, Bing Ads)\n💸 Pay-Per-Click (PPC) Management\n✍️ Content Creation & Copywriting\n☁️ Cloud Infrastructure & Migration (AWS, Azure, GCP)\n📊 CRM Implementation & Integration\n📦 ERP Solutions & Customization\n🔄 DevOps & CI/CD Pipeline Setup\n🔌 API Development & Integration\n🛡️ Cybersecurity & Vulnerability Assessments\n🌐 Network Setup, Monitoring & Management\n🖥️ Server Management & Virtualization\n🗃️ Database Administration & Optimization\n🧠 AI/ML Model Development & Deployment\n📊 Big Data Analytics & Business Intelligence\n📶 IoT Solutions & Integration\n⛓️ Blockchain Development & Smart Contracts\n🎨 Graphic/UI-UX Design & Prototyping\n🧪 Software Testing & QA Automation\n💾 Backup, Disaster Recovery & Business Continuity\n🛠️ 24/7 Tech Support & Managed IT Services\n\n🔥 Why choose us?\n• Tailored solutions: We adapt to your unique needs\n• End-to-end delivery: Strategy through deployment & support\n• Data-driven: Every decision backed by analytics\n• Agile & transparent: Regular updates, zero surprises\n\nReady to level up? Reply \"LET'S GROW\" for a FREE business audit + proposal! 🚀\n\nCheers,\nRamesh Kumar Sah\n📞 +9779862981898\n🌐 www.rameshkumarsah.com.np"
+    ],
+    "Didn't Pick Call": [
+      "Missed our call? 😊 No problem! Explore our premium services:\n✅ Digital Marketing\n✅ Cloud Solutions\n✅ B2B Automation\n✅ Custom Software\nReach us at +9779862981898 💼✨\nहाम्रो कल सम्झनुभएन? 😊 चिन्ता नगर्नुहोस्! हामीलाई यहाँ पाउनुहुन्छ: +9779862981898"
+    ],
+    "Confirmation Pending": [
+      "Pending confirmation",
+      "Wait time longer than usual"
+    ],
+    "Special Offers": [
+      "🎉 Exclusive Tech Packages! 🎉\nCloud Migration Special\nDigital Marketing Bundles\nAI Solutions Launch Offer!"
+    ]
+  },
+  "MESSAGES_ASSETS": {
+    "Call Again": "call_again.png",
+    "Daily Update": "daily_update.png",
+    "Follow-up": "follow_up.png",
+    "Services Offer": "services_brochure.png",
+    "Didn't Pick Call": "missed_call.png",
+    "Confirmation Pending": "pending.png",
+    "Special Offers": "offers.png"
+  }
+}
