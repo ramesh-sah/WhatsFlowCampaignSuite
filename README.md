@@ -34,7 +34,7 @@ Enterprise-grade WhatsApp automation platform for managing large-scale communica
 ### Quick Start
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/whatsflow-campaign-suite.git
+git clone https://github.com/ramesh-sah/WhatsFlowCampaignSuite.git
 
 # Navigate to project directory
 cd WhatsFlowCampaignSuite
@@ -43,7 +43,7 @@ cd WhatsFlowCampaignSuite
 pip install -r requirements.txt
 
 # Create necessary directories
-mkdir -p assets samples
+mkdir -p assets sample
 ⚙️ Configuration
 Prepare Assets
 
@@ -68,7 +68,7 @@ json
 Launch Application
 
 bash
-python main.py
+python whats_flow_campaign_suite.py
 Load Contacts
 
 Upload CSV file or enter numbers manually
